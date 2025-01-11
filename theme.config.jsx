@@ -35,7 +35,7 @@ export default {
     link: 'https://github.com/debughealth/debug.health',
   },
   chat: {
-    link: 'https://discord.gg/Dr3fsafA',
+    link: 'https://discord.gg/yUtbNAZ3pp',
   },
 
   head() {
